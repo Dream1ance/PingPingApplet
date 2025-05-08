@@ -1,0 +1,3 @@
+grant codeBase "file:/E:/new pong/-" {
+    permission java.io.FilePermission "E:\\new pong\\scores.txt", "read,write";
+};
